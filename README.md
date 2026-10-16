@@ -13,12 +13,16 @@ Consider this grey literature until published, and please credit if used or remi
 
 SETUP
 Windows: py -m venv .venv
+``````
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 .venv\Scripts\python.exe -m jupyterlab
+```
+
 macOS/Linux: python3 -m venv .venv
+```
 .venv/bin/python -m pip install -r requirements.txt
 .venv/bin/python -m jupyterlab
-
+```
 
 HOW TO
 NOTEBOOK 1
@@ -31,9 +35,9 @@ Notebook syntax and JSON checked; not run end-to-end on the 111 masks.
 
 NOTEBOOK 2
 Luna Grid ratios is using a methodology from Luna, Aranda & Santos (2017), International Journal of Osteoarchaeology 27:898–911, doi:10.1002/oa.2604, pp.900–902
-This notebook should simplify data collection
+This Jupyter notebook should simplify data collection.
 
-Install: python -m pip install -r luna_requirements.txt
+Install: ```python -m pip install -r luna_requirements.txt```
 Launch local JupyterLab in that project, open notebook, run cells in order.
 Automatic batch saves draft grids and unreviewed ratios. Editor allows anatomical correction and residual rotation; explicit approval required for final measurements. Five points are edited in pixel coordinates; no mouse-click backend or blocking loops needed.
 Left-first selection; right-only automatically reflected. Use original unreflected masks, not previously reflected analysis outputs. Configure RIGHT_ALREADY_REFLECTED if necessary.
