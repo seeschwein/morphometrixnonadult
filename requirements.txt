@@ -1,0 +1,10 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+Pillow
+scipy
+scikit-learn
+scikit-image
+matplotlib
+pyefd

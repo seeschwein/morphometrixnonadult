@@ -1,0 +1,69 @@
+individual_id,side,path,filename,selection_reason
+8,L,/Users/azam/auricular_study/masks/f8L.png,f8L.png,left preferred
+9,L,/Users/azam/auricular_study/masks/f9L.png,f9L.png,left preferred
+11,L,/Users/azam/auricular_study/masks/f11L.png,f11L.png,left preferred
+12,L,/Users/azam/auricular_study/masks/f12L.png,f12L.png,left preferred
+16,L,/Users/azam/auricular_study/masks/f16L.png,f16L.png,left preferred
+18,L,/Users/azam/auricular_study/masks/f18L.png,f18L.png,left preferred
+19,L,/Users/azam/auricular_study/masks/f19L.png,f19L.png,left preferred
+20,L,/Users/azam/auricular_study/masks/f20L.png,f20L.png,left preferred
+22,L,/Users/azam/auricular_study/masks/f22L.png,f22L.png,left preferred
+23,L,/Users/azam/auricular_study/masks/f23L.png,f23L.png,left preferred
+24,L,/Users/azam/auricular_study/masks/f24L.png,f24L.png,left preferred
+32,L,/Users/azam/auricular_study/masks/f32L.png,f32L.png,left preferred
+33,R,/Users/azam/auricular_study/masks/f33R.png,f33R.png,right only; reflected
+41,L,/Users/azam/auricular_study/masks/f41L.png,f41L.png,left preferred
+45,L,/Users/azam/auricular_study/masks/f45L.png,f45L.png,left preferred
+46,L,/Users/azam/auricular_study/masks/f46L.png,f46L.png,left preferred
+48.2,L,/Users/azam/auricular_study/masks/f48-2L.png,f48-2L.png,left preferred
+56,L,/Users/azam/auricular_study/masks/f56L.png,f56L.png,left preferred
+57,R,/Users/azam/auricular_study/masks/f57R.png,f57R.png,right only; reflected
+59,L,/Users/azam/auricular_study/masks/f59L.png,f59L.png,left preferred
+65,L,/Users/azam/auricular_study/masks/f65L.png,f65L.png,left preferred
+66,L,/Users/azam/auricular_study/masks/f66L.png,f66L.png,left preferred
+69,L,/Users/azam/auricular_study/masks/f69L.png,f69L.png,left preferred
+71,L,/Users/azam/auricular_study/masks/f71L.png,f71L.png,left preferred
+75,L,/Users/azam/auricular_study/masks/f75L.png,f75L.png,left preferred
+80,L,/Users/azam/auricular_study/masks/f80L.png,f80L.png,left preferred
+85,R,/Users/azam/auricular_study/masks/f85R.png,f85R.png,right only; reflected
+93,L,/Users/azam/auricular_study/masks/f93L.png,f93L.png,left preferred
+95,L,/Users/azam/auricular_study/masks/f95L.png,f95L.png,left preferred
+97,L,/Users/azam/auricular_study/masks/f97L.png,f97L.png,left preferred
+108,L,/Users/azam/auricular_study/masks/f108L.png,f108L.png,left preferred
+114,L,/Users/azam/auricular_study/masks/f114L.png,f114L.png,left preferred
+118,L,/Users/azam/auricular_study/masks/f118L.png,f118L.png,left preferred
+122,L,/Users/azam/auricular_study/masks/f122L.png,f122L.png,left preferred
+128,L,/Users/azam/auricular_study/masks/f128L.png,f128L.png,left preferred
+137,L,/Users/azam/auricular_study/masks/f137L.png,f137L.png,left preferred
+138,R,/Users/azam/auricular_study/masks/f138R.png,f138R.png,right only; reflected
+142,L,/Users/azam/auricular_study/masks/f142L.png,f142L.png,left preferred
+151,R,/Users/azam/auricular_study/masks/f151R.png,f151R.png,right only; reflected
+153,R,/Users/azam/auricular_study/masks/f153R.png,f153R.png,right only; reflected
+156,L,/Users/azam/auricular_study/masks/f156L.png,f156L.png,left preferred
+157,L,/Users/azam/auricular_study/masks/f157L.png,f157L.png,left preferred
+158,R,/Users/azam/auricular_study/masks/f158R.png,f158R.png,right only; reflected
+165,L,/Users/azam/auricular_study/masks/f165L.png,f165L.png,left preferred
+168,R,/Users/azam/auricular_study/masks/f168R.png,f168R.png,right only; reflected
+173,L,/Users/azam/auricular_study/masks/f173L.png,f173L.png,left preferred
+174,L,/Users/azam/auricular_study/masks/f174L.png,f174L.png,left preferred
+178,L,/Users/azam/auricular_study/masks/f178L.png,f178L.png,left preferred
+179,L,/Users/azam/auricular_study/masks/f179L.png,f179L.png,left preferred
+190,R,/Users/azam/auricular_study/masks/f190R.png,f190R.png,right only; reflected
+194,L,/Users/azam/auricular_study/masks/f194L.png,f194L.png,left preferred
+202,L,/Users/azam/auricular_study/masks/f202L.png,f202L.png,left preferred
+207,L,/Users/azam/auricular_study/masks/f207L.png,f207L.png,left preferred
+209,R,/Users/azam/auricular_study/masks/f209R.png,f209R.png,right only; reflected
+211,R,/Users/azam/auricular_study/masks/f211R.png,f211R.png,right only; reflected
+212,L,/Users/azam/auricular_study/masks/f212L.png,f212L.png,left preferred
+220,L,/Users/azam/auricular_study/masks/f220L.png,f220L.png,left preferred
+230,L,/Users/azam/auricular_study/masks/f230L.png,f230L.png,left preferred
+246,L,/Users/azam/auricular_study/masks/f246L.png,f246L.png,left preferred
+250,L,/Users/azam/auricular_study/masks/f250L.png,f250L.png,left preferred
+262,L,/Users/azam/auricular_study/masks/f262L.png,f262L.png,left preferred
+278,L,/Users/azam/auricular_study/masks/f278L.png,f278L.png,left preferred
+286,L,/Users/azam/auricular_study/masks/f286L.png,f286L.png,left preferred
+289,R,/Users/azam/auricular_study/masks/f289R.png,f289R.png,right only; reflected
+291,L,/Users/azam/auricular_study/masks/f291L.png,f291L.png,left preferred
+305,R,/Users/azam/auricular_study/masks/f305R.png,f305R.png,right only; reflected
+307,L,/Users/azam/auricular_study/masks/f307L.png,f307L.png,left preferred
+311,L,/Users/azam/auricular_study/masks/f311L.png,f311L.png,left preferred

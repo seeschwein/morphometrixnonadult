@@ -1,0 +1,14 @@
+individual_id: skeleton identifier, string; numeric sorting, 48.2 retained.
+context_number, box_number, number_of_boxes: register identifiers/locations.
+sex_code: verbatim register code; provenance not independently verified.
+age_original: original age range, including week/month strings; no midpoint fabricated.
+age_group: source inventory age group with leading numeric code removed.
+preservation: inventory code, not expanded.
+skeleton_completeness_percent: register percentage.
+sides_available: observed mask list (not synthetic).
+dentition_recorded: register field, not canine availability.
+notes: source notes and unmatched-register notice.
+canine_{ul|ur|dl|dr}_{bl_crown|bl_cervical|md_crown|md_cervical}: screenshot numeric measurement. Quadrants UL,UR,DL,DR preserved as supplied. BL buccolingual; MD mesiodistal; cervical abbreviated cerv in screenshot. Units not explicitly supplied. Empty values mean no measurement shown, not tooth absence. No imputation.
+canine_measurement_count: number of populated numeric canine fields out of 16.
+canine_source: screenshot provenance.
+canine_review_note: transcription/source concerns.

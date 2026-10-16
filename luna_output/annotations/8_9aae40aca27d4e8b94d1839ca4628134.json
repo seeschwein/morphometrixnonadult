@@ -1,0 +1,106 @@
+{
+  "individual_id": "8",
+  "observer_id": "observer_1",
+  "session_id": "session_1",
+  "timestamp_utc": "2026-10-16T11:42:37.149523+00:00",
+  "revision": "9aae40aca27d4e8b94d1839ca4628134",
+  "source_side": "L",
+  "source_filename": "f8L.png",
+  "selection_reason": "left preferred",
+  "source_sha256": "80c176a6bb10213d05b032442c0177b8b96e4b81581046161aec89e5a30b6888",
+  "status": "observer_approved",
+  "notes": "",
+  "background_tolerance": 20,
+  "right_already_reflected_setting": false,
+  "working_shape": [
+    466,
+    426
+  ],
+  "beta_proposal_fallback": false,
+  "source_touches_border": false,
+  "discarded_foreground_fraction": 0.0006793273149965362,
+  "reflected": false,
+  "rotation_degrees": 0.0,
+  "landmarks": {
+    "alpha": [
+      393.0,
+      357.0
+    ],
+    "beta": [
+      269.0,
+      196.0
+    ],
+    "gamma": [
+      32.0,
+      111.0
+    ],
+    "delta": [
+      153.0,
+      32.0
+    ],
+    "epsilon": [
+      293.0,
+      433.0
+    ]
+  },
+  "grid": {
+    "A": [
+      32.0,
+      32.0
+    ],
+    "B": [
+      269.0,
+      32.0
+    ],
+    "C": [
+      393.0,
+      32.0
+    ],
+    "D": [
+      32.0,
+      196.0
+    ],
+    "E": [
+      269.0,
+      196.0
+    ],
+    "F": [
+      393.0,
+      196.0
+    ],
+    "G": [
+      32.0,
+      433.0
+    ],
+    "H": [
+      269.0,
+      433.0
+    ],
+    "I": [
+      393.0,
+      433.0
+    ]
+  },
+  "lengths_px": {
+    "BC": 124.0,
+    "EH": 237.0,
+    "AD": 164.0,
+    "CF": 164.0,
+    "FI": 237.0,
+    "AB": 237.0,
+    "AC": 361.0,
+    "EF": 124.0,
+    "HI": 124.0,
+    "DE": 237.0,
+    "CI": 401.0
+  },
+  "ratios": {
+    "AC_CI": 0.9002493765586035,
+    "FI_CF": 1.4451219512195121,
+    "AB_BC": 1.9112903225806452,
+    "HI_EH": 0.5232067510548524,
+    "EF_CF": 0.7560975609756098,
+    "DE_AD": 1.4451219512195121,
+    "DE_EH": 1.0
+  }
+}
