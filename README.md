@@ -42,6 +42,9 @@ This Jupyter notebook should simplify data collection.
 - Install: ```python -m pip install -r luna_requirements.txt```
 - Launch local JupyterLab in that project, open notebook, run cells in order.
 - Automatic batch saves draft grids and unreviewed ratios. Editor allows anatomical correction and residual rotation; explicit approval required for final measurements.
+
+![Screenshot of UI](Screenshot_UI_grid.png?raw=true "Screenshot of UI")
+
 - Left-first selection; right-only automatically reflected. Use original unreflected masks, not previously reflected analysis outputs. Configure RIGHT_ALREADY_REFLECTED if necessary.
 - Save each approved grid, then run export cell. Change observer/session for repeats. Annotations persist, UI starts with fresh suggestions for blinded reannotation.
 
