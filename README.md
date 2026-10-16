@@ -32,7 +32,7 @@ Auricular-final is for exploring the data with Fourier Transforms to see what mo
 
 NOTEBOOK 2
 
-Luna Grid ratios is using a methodology from Luna, Aranda & Santos (2017), International Journal of Osteoarchaeology 27:898–911, doi:10.1002/oa.2604, pp.900–902
+The Luna Grid ratios notebook is using a methodology from Luna, Aranda & Santos (2017), International Journal of Osteoarchaeology 27:898–911, [doi:10.1002/oa.2604](https://onlinelibrary.wiley.com/doi/abs/10.1002/oa.2604), pp.900–902
 
 This Jupyter notebook should simplify data collection.
 
