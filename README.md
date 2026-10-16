@@ -13,7 +13,7 @@ Consider this grey literature until published, and please credit if used or remi
 
 SETUP
 Windows: py -m venv .venv
-``````
+```
 .venv\Scripts\python.exe -m pip install -r requirements.txt
 .venv\Scripts\python.exe -m jupyterlab
 ```
