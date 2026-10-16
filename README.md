@@ -3,10 +3,11 @@ osteoarchaeology morphometrics
 
 
 
-
+This is a continuation of my osteoarchaeology dissertation project
 
 My BSc dissertation from Durham University looked at non-adult sex estimation techniques. I have here a set of images of the hip bones from around 65 individuals from the York Fishergate House Skeletal Collection housed at our department.
-The auricular surface as a sex predictor has been investigated by Luna et al. 2017 using statistical methodologies on metric traits from images. I am now keen to develop a machine learning method to classify my data to take this model and approach one step further. I have manually used Affinity to create masks for the auricular surfaces on all the individuals I photographed.
+The auricular surface as a sex predictor has been investigated by Luna et al. 2017 using statistical methodologies on metric traits from images. I am now keen to develop a machine learning method to classify my data to take this model and approach one step further.
+I have manually used Affinity to create masks for the auricular surfaces on all the individuals I photographed.
 
 Consider this grey literature until published, and please credit if used or remixed, Teodor Tranca 2025, Durham University
 
