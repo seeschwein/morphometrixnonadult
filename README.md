@@ -27,21 +27,23 @@ macOS/Linux: python3 -m venv .venv
 HOW TO
 NOTEBOOK 1
 
-Auricular-final is exploring the data with fourier transformations to see what morphologies can be clustered.
+Auricular-final is for exploring the data with Fourier Transforms to see what morphologies can be clustered.
 
-Open auricular_final.ipynb. Run cells in order and inspect QC.
-The final CSV includes only 68 mask individuals, sorted numerically. 20 have canine values (192 measurements).
-Notebook syntax and JSON checked; not run end-to-end on the 111 masks.
+- Open auricular_final.ipynb. Run cells in order and inspect QC.
+- The final CSV includes only 68 mask individuals, sorted numerically. 20 have canine values (192 measurements).
+- Notebook syntax and JSON checked; not run end-to-end on the 111 masks.
 
 NOTEBOOK 2
 Luna Grid ratios is using a methodology from Luna, Aranda & Santos (2017), International Journal of Osteoarchaeology 27:898–911, doi:10.1002/oa.2604, pp.900–902
 This Jupyter notebook should simplify data collection.
 
-Install: ```python -m pip install -r luna_requirements.txt```
-Launch local JupyterLab in that project, open notebook, run cells in order.
-Automatic batch saves draft grids and unreviewed ratios. Editor allows anatomical correction and residual rotation; explicit approval required for final measurements. Five points are edited in pixel coordinates; no mouse-click backend or blocking loops needed.
-Left-first selection; right-only automatically reflected. Use original unreflected masks, not previously reflected analysis outputs. Configure RIGHT_ALREADY_REFLECTED if necessary.
-Save each approved grid, then run export cell. Change observer/session for repeats. Annotations persist, UI starts with fresh suggestions for blinded reannotation.
-No true missing side is fabricated; right-derived measurements retain source side.
-No sex classifier; age validity of original study 7–18 years.
-Notebook JSON, Python syntax and grid arithmetic checked. Not run on the full local mask collection; anatomical landmark suggestions are not validated.
+- Install: ```python -m pip install -r luna_requirements.txt```
+- Launch local JupyterLab in that project, open notebook, run cells in order.
+- Automatic batch saves draft grids and unreviewed ratios. Editor allows anatomical correction and residual rotation; explicit approval required for final measurements.
+- Left-first selection; right-only automatically reflected. Use original unreflected masks, not previously reflected analysis outputs. Configure RIGHT_ALREADY_REFLECTED if necessary.
+- Save each approved grid, then run export cell. Change observer/session for repeats. Annotations persist, UI starts with fresh suggestions for blinded reannotation.
+
+
+- No true missing side is fabricated; right-derived measurements retain source side.
+- No sex classifier; age validity of original study 7–18 years.
+- Notebook JSON, Python syntax and grid arithmetic checked. Not run on the full local mask collection; anatomical landmark suggestions are not validated.
