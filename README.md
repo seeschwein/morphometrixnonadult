@@ -24,7 +24,7 @@ macOS/Linux: python3 -m venv .venv
 .venv/bin/python -m jupyterlab
 ```
 
-HOW TO
+
 NOTEBOOK 1
 
 Auricular-final is for exploring the data with Fourier Transforms to see what morphologies can be clustered.
@@ -34,7 +34,9 @@ Auricular-final is for exploring the data with Fourier Transforms to see what mo
 - Notebook syntax and JSON checked; not run end-to-end on the 111 masks.
 
 NOTEBOOK 2
+
 Luna Grid ratios is using a methodology from Luna, Aranda & Santos (2017), International Journal of Osteoarchaeology 27:898–911, doi:10.1002/oa.2604, pp.900–902
+
 This Jupyter notebook should simplify data collection.
 
 - Install: ```python -m pip install -r luna_requirements.txt```
