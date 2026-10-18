@@ -8,3 +8,7 @@ scikit-learn
 scikit-image
 matplotlib
 pyefd
+
+opencv-python
+ipywidgets
+ipympl
