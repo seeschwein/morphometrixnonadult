@@ -1,0 +1,112 @@
+{
+  "source_touches_border": true,
+  "discarded_foreground_fraction": 0.0,
+  "reflected": false,
+  "rotation_degrees": 0.0,
+  "individual_id": "19",
+  "observer_id": "observer_1",
+  "session_id": "session_1",
+  "timestamp_utc": "2026-10-18T01:31:34.104637+00:00",
+  "revision": "cdfe2bfdf26542ddb08baf636892e947",
+  "source_side": "L",
+  "source_filename": "f19L.png",
+  "selection_reason": "left preferred",
+  "source_sha256": "0c90428cdf5a2e73b5f8a27c62d53983b8cc67959e27f4df19ed71bf54ca7b8d",
+  "status": "observer_approved",
+  "notes": "",
+  "background_tolerance": 20,
+  "right_already_reflected_setting": false,
+  "working_shape": [
+    538,
+    473
+  ],
+  "beta_proposal_fallback": false,
+  "landmarks": {
+    "alpha": [
+      435.0,
+      345.0
+    ],
+    "beta": [
+      367.08584819939773,
+      282.58176501473224
+    ],
+    "gamma": [
+      37.0,
+      149.0
+    ],
+    "delta": [
+      323.0,
+      37.0
+    ],
+    "epsilon": [
+      312.0,
+      500.0
+    ]
+  },
+  "grid": {
+    "A": [
+      37.0,
+      37.0
+    ],
+    "B": [
+      367.08584819939773,
+      37.0
+    ],
+    "C": [
+      435.0,
+      37.0
+    ],
+    "D": [
+      37.0,
+      282.58176501473224
+    ],
+    "E": [
+      367.08584819939773,
+      282.58176501473224
+    ],
+    "F": [
+      435.0,
+      282.58176501473224
+    ],
+    "G": [
+      37.0,
+      500.0
+    ],
+    "H": [
+      367.08584819939773,
+      500.0
+    ],
+    "I": [
+      435.0,
+      500.0
+    ]
+  },
+  "lengths_px": {
+    "CF": 245.58176501473224,
+    "DE": 330.08584819939773,
+    "AB": 330.08584819939773,
+    "AC": 398.0,
+    "EH": 217.41823498526776,
+    "AD": 245.58176501473224,
+    "CI": 463.0,
+    "BC": 67.91415180060227,
+    "HI": 67.91415180060227,
+    "EF": 67.91415180060227,
+    "FI": 217.41823498526776
+  },
+  "ratios": {
+    "AC_CI": 0.8596112311015118,
+    "FI_CF": 0.8853191317858027,
+    "AB_BC": 4.860339700163501,
+    "HI_EH": 0.31236640204168764,
+    "EF_CF": 0.2765439518546019,
+    "DE_AD": 1.3440975480390254,
+    "DE_EH": 1.5182068248404479
+  },
+  "reference_image_viewed_at_save": "bones-assets/19.png",
+  "reference_images_available": [
+    "bones-assets/19.png",
+    "f/f19P1060371.jpg",
+    "f/f19P1060377.jpg"
+  ]
+}

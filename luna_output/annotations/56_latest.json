@@ -1,0 +1,106 @@
+{
+  "source_touches_border": true,
+  "discarded_foreground_fraction": 0.0,
+  "reflected": false,
+  "rotation_degrees": 0.0,
+  "individual_id": "56",
+  "observer_id": "observer_1",
+  "session_id": "session_1",
+  "timestamp_utc": "2026-10-18T02:33:59.795529+00:00",
+  "revision": "b635e14cd7a6498da51ddc788251bb7d",
+  "source_side": "L",
+  "source_filename": "f56L.png",
+  "selection_reason": "left preferred",
+  "source_sha256": "92e933c7de624c9045e5363c3a8ca9ac0dbb1ff2da7e58f1b46459920deee4b9",
+  "status": "autosaved_latest",
+  "notes": "",
+  "background_tolerance": 20,
+  "right_already_reflected_setting": false,
+  "working_shape": [
+    1252,
+    836
+  ],
+  "beta_proposal_fallback": false,
+  "landmarks": {
+    "beta": [
+      364.6812461723946,
+      554.5316863047167
+    ],
+    "alpha": [
+      749.0,
+      983.0
+    ],
+    "gamma": [
+      86.0,
+      170.0
+    ],
+    "delta": [
+      272.0,
+      86.0
+    ],
+    "epsilon": [
+      375.0,
+      1165.0
+    ]
+  },
+  "grid": {
+    "A": [
+      86.0,
+      86.0
+    ],
+    "B": [
+      364.6812461723946,
+      86.0
+    ],
+    "C": [
+      749.0,
+      86.0
+    ],
+    "D": [
+      86.0,
+      554.5316863047167
+    ],
+    "E": [
+      364.6812461723946,
+      554.5316863047167
+    ],
+    "F": [
+      749.0,
+      554.5316863047167
+    ],
+    "G": [
+      86.0,
+      1165.0
+    ],
+    "H": [
+      364.6812461723946,
+      1165.0
+    ],
+    "I": [
+      749.0,
+      1165.0
+    ]
+  },
+  "lengths_px": {
+    "CF": 468.5316863047167,
+    "DE": 278.6812461723946,
+    "AB": 278.6812461723946,
+    "AC": 663.0,
+    "EH": 610.4683136952833,
+    "AD": 468.5316863047167,
+    "CI": 1079.0,
+    "BC": 384.3187538276054,
+    "HI": 384.3187538276054,
+    "EF": 384.3187538276054,
+    "FI": 610.4683136952833
+  },
+  "ratios": {
+    "AC_CI": 0.6144578313253012,
+    "FI_CF": 1.3029392281021865,
+    "AB_BC": 0.7251304897220893,
+    "HI_EH": 0.6295474231926131,
+    "EF_CF": 0.8202620336283039,
+    "DE_AD": 0.5947970101453288,
+    "DE_EH": 0.4565040312829389
+  }
+}

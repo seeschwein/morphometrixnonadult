@@ -1,69 +1,69 @@
-individual_id,side,path,filename,selection_reason
-8,L,/Users/azam/morphometrixnonadult/masks/f8L.png,f8L.png,left preferred
-9,L,/Users/azam/morphometrixnonadult/masks/f9L.png,f9L.png,left preferred
-11,L,/Users/azam/morphometrixnonadult/masks/f11L.png,f11L.png,left preferred
-12,L,/Users/azam/morphometrixnonadult/masks/f12L.png,f12L.png,left preferred
-16,L,/Users/azam/morphometrixnonadult/masks/f16L.png,f16L.png,left preferred
-18,L,/Users/azam/morphometrixnonadult/masks/f18L.png,f18L.png,left preferred
-19,L,/Users/azam/morphometrixnonadult/masks/f19L.png,f19L.png,left preferred
-20,L,/Users/azam/morphometrixnonadult/masks/f20L.png,f20L.png,left preferred
-22,L,/Users/azam/morphometrixnonadult/masks/f22L.png,f22L.png,left preferred
-23,L,/Users/azam/morphometrixnonadult/masks/f23L.png,f23L.png,left preferred
-24,L,/Users/azam/morphometrixnonadult/masks/f24L.png,f24L.png,left preferred
-32,L,/Users/azam/morphometrixnonadult/masks/f32L.png,f32L.png,left preferred
-33,R,/Users/azam/morphometrixnonadult/masks/f33R.png,f33R.png,right only; reflected
-41,L,/Users/azam/morphometrixnonadult/masks/f41L.png,f41L.png,left preferred
-45,L,/Users/azam/morphometrixnonadult/masks/f45L.png,f45L.png,left preferred
-46,L,/Users/azam/morphometrixnonadult/masks/f46L.png,f46L.png,left preferred
-48.2,L,/Users/azam/morphometrixnonadult/masks/f48-2L.png,f48-2L.png,left preferred
-56,L,/Users/azam/morphometrixnonadult/masks/f56L.png,f56L.png,left preferred
-57,R,/Users/azam/morphometrixnonadult/masks/f57R.png,f57R.png,right only; reflected
-59,L,/Users/azam/morphometrixnonadult/masks/f59L.png,f59L.png,left preferred
-65,L,/Users/azam/morphometrixnonadult/masks/f65L.png,f65L.png,left preferred
-66,L,/Users/azam/morphometrixnonadult/masks/f66L.png,f66L.png,left preferred
-69,L,/Users/azam/morphometrixnonadult/masks/f69L.png,f69L.png,left preferred
-71,L,/Users/azam/morphometrixnonadult/masks/f71L.png,f71L.png,left preferred
-75,L,/Users/azam/morphometrixnonadult/masks/f75L.png,f75L.png,left preferred
-80,L,/Users/azam/morphometrixnonadult/masks/f80L.png,f80L.png,left preferred
-85,R,/Users/azam/morphometrixnonadult/masks/f85R.png,f85R.png,right only; reflected
-93,L,/Users/azam/morphometrixnonadult/masks/f93L.png,f93L.png,left preferred
-95,L,/Users/azam/morphometrixnonadult/masks/f95L.png,f95L.png,left preferred
-97,L,/Users/azam/morphometrixnonadult/masks/f97L.png,f97L.png,left preferred
-108,L,/Users/azam/morphometrixnonadult/masks/f108L.png,f108L.png,left preferred
-114,L,/Users/azam/morphometrixnonadult/masks/f114L.png,f114L.png,left preferred
-118,L,/Users/azam/morphometrixnonadult/masks/f118L.png,f118L.png,left preferred
-122,L,/Users/azam/morphometrixnonadult/masks/f122L.png,f122L.png,left preferred
-128,L,/Users/azam/morphometrixnonadult/masks/f128L.png,f128L.png,left preferred
-137,L,/Users/azam/morphometrixnonadult/masks/f137L.png,f137L.png,left preferred
-138,R,/Users/azam/morphometrixnonadult/masks/f138R.png,f138R.png,right only; reflected
-142,L,/Users/azam/morphometrixnonadult/masks/f142L.png,f142L.png,left preferred
-151,R,/Users/azam/morphometrixnonadult/masks/f151R.png,f151R.png,right only; reflected
-153,R,/Users/azam/morphometrixnonadult/masks/f153R.png,f153R.png,right only; reflected
-156,L,/Users/azam/morphometrixnonadult/masks/f156L.png,f156L.png,left preferred
-157,L,/Users/azam/morphometrixnonadult/masks/f157L.png,f157L.png,left preferred
-158,R,/Users/azam/morphometrixnonadult/masks/f158R.png,f158R.png,right only; reflected
-165,L,/Users/azam/morphometrixnonadult/masks/f165L.png,f165L.png,left preferred
-168,R,/Users/azam/morphometrixnonadult/masks/f168R.png,f168R.png,right only; reflected
-173,L,/Users/azam/morphometrixnonadult/masks/f173L.png,f173L.png,left preferred
-174,L,/Users/azam/morphometrixnonadult/masks/f174L.png,f174L.png,left preferred
-178,L,/Users/azam/morphometrixnonadult/masks/f178L.png,f178L.png,left preferred
-179,L,/Users/azam/morphometrixnonadult/masks/f179L.png,f179L.png,left preferred
-190,R,/Users/azam/morphometrixnonadult/masks/f190R.png,f190R.png,right only; reflected
-194,L,/Users/azam/morphometrixnonadult/masks/f194L.png,f194L.png,left preferred
-202,L,/Users/azam/morphometrixnonadult/masks/f202L.png,f202L.png,left preferred
-207,L,/Users/azam/morphometrixnonadult/masks/f207L.png,f207L.png,left preferred
-209,R,/Users/azam/morphometrixnonadult/masks/f209R.png,f209R.png,right only; reflected
-211,R,/Users/azam/morphometrixnonadult/masks/f211R.png,f211R.png,right only; reflected
-212,L,/Users/azam/morphometrixnonadult/masks/f212L.png,f212L.png,left preferred
-220,L,/Users/azam/morphometrixnonadult/masks/f220L.png,f220L.png,left preferred
-230,L,/Users/azam/morphometrixnonadult/masks/f230L.png,f230L.png,left preferred
-246,L,/Users/azam/morphometrixnonadult/masks/f246L.png,f246L.png,left preferred
-250,L,/Users/azam/morphometrixnonadult/masks/f250L.png,f250L.png,left preferred
-262,L,/Users/azam/morphometrixnonadult/masks/f262L.png,f262L.png,left preferred
-278,L,/Users/azam/morphometrixnonadult/masks/f278L.png,f278L.png,left preferred
-286,L,/Users/azam/morphometrixnonadult/masks/f286L.png,f286L.png,left preferred
-289,R,/Users/azam/morphometrixnonadult/masks/f289R.png,f289R.png,right only; reflected
-291,L,/Users/azam/morphometrixnonadult/masks/f291L.png,f291L.png,left preferred
-305,R,/Users/azam/morphometrixnonadult/masks/f305R.png,f305R.png,right only; reflected
-307,L,/Users/azam/morphometrixnonadult/masks/f307L.png,f307L.png,left preferred
-311,L,/Users/azam/morphometrixnonadult/masks/f311L.png,f311L.png,left preferred
+individual_id,side,path,filename,stem,selection_reason,reference_path,reference_filename,reference_status
+8,L,/Users/azam/morphometrixnonadult/masks/f8L.png,f8L.png,f8L,left preferred,/Users/azam/morphometrixnonadult/f/f8P1080838.jpg,f8P1080838.jpg,matched
+9,L,/Users/azam/morphometrixnonadult/masks/f9L.png,f9L.png,f9L,left preferred,/Users/azam/morphometrixnonadult/f/f9P1080870.jpg,f9P1080870.jpg,matched
+11,L,/Users/azam/morphometrixnonadult/masks/f11L.png,f11L.png,f11L,left preferred,/Users/azam/morphometrixnonadult/f/f11P1080922.jpg,f11P1080922.jpg,matched
+12,L,/Users/azam/morphometrixnonadult/masks/f12L.png,f12L.png,f12L,left preferred,/Users/azam/morphometrixnonadult/f/f12P1060354.jpg,f12P1060354.jpg,matched
+16,L,/Users/azam/morphometrixnonadult/masks/f16L.png,f16L.png,f16L,left preferred,/Users/azam/morphometrixnonadult/f/f16P1060363.jpg,f16P1060363.jpg,matched
+18,L,/Users/azam/morphometrixnonadult/masks/f18L.png,f18L.png,f18L,left preferred,/Users/azam/morphometrixnonadult/f/f18P1080892.jpg,f18P1080892.jpg,matched
+19,L,/Users/azam/morphometrixnonadult/masks/f19L.png,f19L.png,f19L,left preferred,/Users/azam/morphometrixnonadult/f/f19P1060371.jpg,f19P1060371.jpg,matched
+20,L,/Users/azam/morphometrixnonadult/masks/f20L.png,f20L.png,f20L,left preferred,/Users/azam/morphometrixnonadult/f/f20P1090026.jpg,f20P1090026.jpg,matched
+22,L,/Users/azam/morphometrixnonadult/masks/f22L.png,f22L.png,f22L,left preferred,/Users/azam/morphometrixnonadult/f/f22P1080759.jpg,f22P1080759.jpg,matched
+23,L,/Users/azam/morphometrixnonadult/masks/f23L.png,f23L.png,f23L,left preferred,/Users/azam/morphometrixnonadult/f/f23P1080889.jpg,f23P1080889.jpg,matched
+24,L,/Users/azam/morphometrixnonadult/masks/f24L.png,f24L.png,f24L,left preferred,/Users/azam/morphometrixnonadult/f/f24P1080847.jpg,f24P1080847.jpg,matched
+32,L,/Users/azam/morphometrixnonadult/masks/f32L.png,f32L.png,f32L,left preferred,/Users/azam/morphometrixnonadult/f/f32P1060344.jpg,f32P1060344.jpg,matched
+33,R,/Users/azam/morphometrixnonadult/masks/f33R.png,f33R.png,f33R,right only; reflected,/Users/azam/morphometrixnonadult/f/f33P1080846.jpg,f33P1080846.jpg,matched
+41,L,/Users/azam/morphometrixnonadult/masks/f41L.png,f41L.png,f41L,left preferred,/Users/azam/morphometrixnonadult/f/f41P1080797.jpg,f41P1080797.jpg,matched
+45,L,/Users/azam/morphometrixnonadult/masks/f45L.png,f45L.png,f45L,left preferred,/Users/azam/morphometrixnonadult/f/f45P1080856.jpg,f45P1080856.jpg,matched
+46,L,/Users/azam/morphometrixnonadult/masks/f46L.png,f46L.png,f46L,left preferred,/Users/azam/morphometrixnonadult/f/f46P1080866.jpg,f46P1080866.jpg,matched
+48.2,L,/Users/azam/morphometrixnonadult/masks/f48-2L.png,f48-2L.png,f48-2L,left preferred,/Users/azam/morphometrixnonadult/f/f48-2P1090029.jpg,f48-2P1090029.jpg,matched
+56,L,/Users/azam/morphometrixnonadult/masks/f56L.png,f56L.png,f56L,left preferred,/Users/azam/morphometrixnonadult/f/f56P1060779.jpg,f56P1060779.jpg,matched
+57,R,/Users/azam/morphometrixnonadult/masks/f57R.png,f57R.png,f57R,right only; reflected,/Users/azam/morphometrixnonadult/f/f57P1080997.jpg,f57P1080997.jpg,matched
+59,L,/Users/azam/morphometrixnonadult/masks/f59L.png,f59L.png,f59L,left preferred,/Users/azam/morphometrixnonadult/f/f59P1070451.jpg,f59P1070451.jpg,matched
+65,L,/Users/azam/morphometrixnonadult/masks/f65L.png,f65L.png,f65L,left preferred,/Users/azam/morphometrixnonadult/f/f65P1080853.jpg,f65P1080853.jpg,matched
+66,L,/Users/azam/morphometrixnonadult/masks/f66L.png,f66L.png,f66L,left preferred,/Users/azam/morphometrixnonadult/f/f66P1070456.jpg,f66P1070456.jpg,matched
+69,L,/Users/azam/morphometrixnonadult/masks/f69L.png,f69L.png,f69L,left preferred,/Users/azam/morphometrixnonadult/f/f69P1080770.jpg,f69P1080770.jpg,matched
+71,L,/Users/azam/morphometrixnonadult/masks/f71L.png,f71L.png,f71L,left preferred,/Users/azam/morphometrixnonadult/f/f71P1070460.JPG,f71P1070460.JPG,matched
+75,L,/Users/azam/morphometrixnonadult/masks/f75L.png,f75L.png,f75L,left preferred,/Users/azam/morphometrixnonadult/f/f75P1080901.jpg,f75P1080901.jpg,matched
+80,L,/Users/azam/morphometrixnonadult/masks/f80L.png,f80L.png,f80L,left preferred,/Users/azam/morphometrixnonadult/f/f80P1080830.jpg,f80P1080830.jpg,matched
+85,R,/Users/azam/morphometrixnonadult/masks/f85R.png,f85R.png,f85R,right only; reflected,/Users/azam/morphometrixnonadult/f/f85P1080836.jpg,f85P1080836.jpg,matched
+93,L,/Users/azam/morphometrixnonadult/masks/f93L.png,f93L.png,f93L,left preferred,/Users/azam/morphometrixnonadult/f/f93P1070452.jpg,f93P1070452.jpg,matched
+95,L,/Users/azam/morphometrixnonadult/masks/f95L.png,f95L.png,f95L,left preferred,/Users/azam/morphometrixnonadult/f/f95P1080968.jpg,f95P1080968.jpg,matched
+97,L,/Users/azam/morphometrixnonadult/masks/f97L.png,f97L.png,f97L,left preferred,/Users/azam/morphometrixnonadult/f/f97P1080964.jpg,f97P1080964.jpg,matched
+108,L,/Users/azam/morphometrixnonadult/masks/f108L.png,f108L.png,f108L,left preferred,/Users/azam/morphometrixnonadult/f/f108P1080804.jpg,f108P1080804.jpg,matched
+114,L,/Users/azam/morphometrixnonadult/masks/f114L.png,f114L.png,f114L,left preferred,/Users/azam/morphometrixnonadult/f/f114P1090006.jpeg,f114P1090006.jpeg,matched
+118,L,/Users/azam/morphometrixnonadult/masks/f118L.png,f118L.png,f118L,left preferred,/Users/azam/morphometrixnonadult/f/f118P1090025.jpg,f118P1090025.jpg,matched
+122,L,/Users/azam/morphometrixnonadult/masks/f122L.png,f122L.png,f122L,left preferred,/Users/azam/morphometrixnonadult/f/f122P1080874.jpg,f122P1080874.jpg,matched
+128,L,/Users/azam/morphometrixnonadult/masks/f128L.png,f128L.png,f128L,left preferred,/Users/azam/morphometrixnonadult/f/f128P1090007.jpg,f128P1090007.jpg,matched
+137,L,/Users/azam/morphometrixnonadult/masks/f137L.png,f137L.png,f137L,left preferred,/Users/azam/morphometrixnonadult/f/f137P1080876.jpg,f137P1080876.jpg,matched
+138,R,/Users/azam/morphometrixnonadult/masks/f138R.png,f138R.png,f138R,right only; reflected,/Users/azam/morphometrixnonadult/f/f138P1080880.jpg,f138P1080880.jpg,matched
+142,L,/Users/azam/morphometrixnonadult/masks/f142L.png,f142L.png,f142L,left preferred,/Users/azam/morphometrixnonadult/f/f142P1080926.jpg,f142P1080926.jpg,matched
+151,R,/Users/azam/morphometrixnonadult/masks/f151R.png,f151R.png,f151R,right only; reflected,/Users/azam/morphometrixnonadult/f/f151P1080911.jpg,f151P1080911.jpg,matched
+153,R,/Users/azam/morphometrixnonadult/masks/f153R.png,f153R.png,f153R,right only; reflected,/Users/azam/morphometrixnonadult/f/f153P1090010.jpg,f153P1090010.jpg,matched
+156,L,/Users/azam/morphometrixnonadult/masks/f156L.png,f156L.png,f156L,left preferred,/Users/azam/morphometrixnonadult/f/f156P1080945.jpg,f156P1080945.jpg,matched
+157,L,/Users/azam/morphometrixnonadult/masks/f157L.png,f157L.png,f157L,left preferred,/Users/azam/morphometrixnonadult/f/f157P1080821.jpg,f157P1080821.jpg,matched
+158,R,/Users/azam/morphometrixnonadult/masks/f158R.png,f158R.png,f158R,right only; reflected,/Users/azam/morphometrixnonadult/f/f158P1090001.jpg,f158P1090001.jpg,matched
+165,L,/Users/azam/morphometrixnonadult/masks/f165L.png,f165L.png,f165L,left preferred,/Users/azam/morphometrixnonadult/f/f165P1080980.jpg,f165P1080980.jpg,matched
+168,R,/Users/azam/morphometrixnonadult/masks/f168R.png,f168R.png,f168R,right only; reflected,/Users/azam/morphometrixnonadult/f/f168P1080992.jpg,f168P1080992.jpg,matched
+173,L,/Users/azam/morphometrixnonadult/masks/f173L.png,f173L.png,f173L,left preferred,/Users/azam/morphometrixnonadult/f/f173P1080936.JPG,f173P1080936.JPG,matched
+174,L,/Users/azam/morphometrixnonadult/masks/f174L.png,f174L.png,f174L,left preferred,/Users/azam/morphometrixnonadult/f/f174P1080808.jpg,f174P1080808.jpg,matched
+178,L,/Users/azam/morphometrixnonadult/masks/f178L.png,f178L.png,f178L,left preferred,/Users/azam/morphometrixnonadult/f/f178P1080904.jpg,f178P1080904.jpg,matched
+179,L,/Users/azam/morphometrixnonadult/masks/f179L.png,f179L.png,f179L,left preferred,/Users/azam/morphometrixnonadult/f/f179P1080946.jpg,f179P1080946.jpg,matched
+190,R,/Users/azam/morphometrixnonadult/masks/f190R.png,f190R.png,f190R,right only; reflected,/Users/azam/morphometrixnonadult/f/f190P1080956.jpg,f190P1080956.jpg,matched
+194,L,/Users/azam/morphometrixnonadult/masks/f194L.png,f194L.png,f194L,left preferred,/Users/azam/morphometrixnonadult/f/f194P1080953.jpg,f194P1080953.jpg,matched
+202,L,/Users/azam/morphometrixnonadult/masks/f202L.png,f202L.png,f202L,left preferred,/Users/azam/morphometrixnonadult/f/f202P1080907.jpg,f202P1080907.jpg,matched
+207,L,/Users/azam/morphometrixnonadult/masks/f207L.png,f207L.png,f207L,left preferred,/Users/azam/morphometrixnonadult/f/f207P1080919.jpg,f207P1080919.jpg,matched
+209,R,/Users/azam/morphometrixnonadult/masks/f209R.png,f209R.png,f209R,right only; reflected,/Users/azam/morphometrixnonadult/f/f209P1080982.jpg,f209P1080982.jpg,matched
+211,R,/Users/azam/morphometrixnonadult/masks/f211R.png,f211R.png,f211R,right only; reflected,/Users/azam/morphometrixnonadult/f/f211P1090015.jpg,f211P1090015.jpg,matched
+212,L,/Users/azam/morphometrixnonadult/masks/f212L.png,f212L.png,f212L,left preferred,/Users/azam/morphometrixnonadult/f/f212P1080976.jpg,f212P1080976.jpg,matched
+220,L,/Users/azam/morphometrixnonadult/masks/f220L.png,f220L.png,f220L,left preferred,/Users/azam/morphometrixnonadult/f/f220P1080940.jpg,f220P1080940.jpg,matched
+230,L,/Users/azam/morphometrixnonadult/masks/f230L.png,f230L.png,f230L,left preferred,/Users/azam/morphometrixnonadult/f/f230P1080988.JPG,f230P1080988.JPG,matched
+246,L,/Users/azam/morphometrixnonadult/masks/f246L.png,f246L.png,f246L,left preferred,/Users/azam/morphometrixnonadult/f/f246P1080882.jpg,f246P1080882.jpg,matched
+250,L,/Users/azam/morphometrixnonadult/masks/f250L.png,f250L.png,f250L,left preferred,/Users/azam/morphometrixnonadult/f/f250P1080802.jpg,f250P1080802.jpg,matched
+262,L,/Users/azam/morphometrixnonadult/masks/f262L.png,f262L.png,f262L,left preferred,/Users/azam/morphometrixnonadult/f/f262P1080923.JPG,f262P1080923.JPG,matched
+278,L,/Users/azam/morphometrixnonadult/masks/f278L.png,f278L.png,f278L,left preferred,/Users/azam/morphometrixnonadult/f/f278P1080816.jpg,f278P1080816.jpg,matched
+286,L,/Users/azam/morphometrixnonadult/masks/f286L.png,f286L.png,f286L,left preferred,/Users/azam/morphometrixnonadult/f/f286P1080914.jpg,f286P1080914.jpg,matched
+289,R,/Users/azam/morphometrixnonadult/masks/f289R.png,f289R.png,f289R,right only; reflected,/Users/azam/morphometrixnonadult/f/f289P1080949.jpg,f289P1080949.jpg,matched
+291,L,/Users/azam/morphometrixnonadult/masks/f291L.png,f291L.png,f291L,left preferred,/Users/azam/morphometrixnonadult/f/f291P1080973.jpg,f291P1080973.jpg,matched
+305,R,/Users/azam/morphometrixnonadult/masks/f305R.png,f305R.png,f305R,right only; reflected,/Users/azam/morphometrixnonadult/f/f305P1080970.jpg,f305P1080970.jpg,matched
+307,L,/Users/azam/morphometrixnonadult/masks/f307L.png,f307L.png,f307L,left preferred,/Users/azam/morphometrixnonadult/f/f307P1080828.jpg,f307P1080828.jpg,matched
+311,L,/Users/azam/morphometrixnonadult/masks/f311L.png,f311L.png,f311L,left preferred,/Users/azam/morphometrixnonadult/f/f311P1080958.jpg,f311P1080958.jpg,matched
